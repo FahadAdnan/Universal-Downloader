@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_download">
+
+    <fragment
+        android:id="@+id/navigation_download"
+        android:name="com.example.universaldownloader.ui.fragments.download.DownloadFragment"
+        android:label="@string/title_download"
+        tools:layout="@layout/fragment_download" />
+
+    <fragment
+        android:id="@+id/navigation_musicPlayer"
+        android:name="com.example.universaldownloader.ui.fragments.musicPlayer.MusicPlayerFragment"
+        android:label="@string/title_music_player"
+        tools:layout="@layout/fragment_music_player" />
+
+    <fragment
+        android:id="@+id/navigation_equalizer"
+        android:name="com.example.universaldownloader.ui.fragments.equalizer.EqualizerFragment"
+        android:label="@string/title_equalizer"
+        tools:layout="@layout/fragment_equalizer" />
+</navigation>
