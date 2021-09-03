@@ -2,7 +2,7 @@
 A current minimum-viable-product of an application made to Download, Play, and Alter Music. 
 The inspiration for this project was to find an alternative to subscription based services like Spotify.
 
-Current Developers on this project: Fahad Adnan and Zayd Adnan
+Current Developers on this project: [https://github.com/FahadAdnan]Fahad Adnan and [https://github.com/zaydadnan08]Zayd Adnan
 
 There are 3 main features of the application: 
 ### ⬇️ Downloader 
