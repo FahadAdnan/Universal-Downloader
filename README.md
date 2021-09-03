@@ -1,4 +1,4 @@
-#  ![icons8-youtube-music](https://user-images.githubusercontent.com/45888399/132066372-c356c39d-c39a-4b1f-bad8-ac60305f79ae.jpg) Universal-Downloader
+#  <img src = "https://user-images.githubusercontent.com/45888399/132066372-c356c39d-c39a-4b1f-bad8-ac60305f79ae.jpg"></> Universal-Downloader
 A current minimum-viable-product of an application made to Download, Play, and Alter Music. 
 The inspiration for this project was to find an alternative to subscription based services like Spotify.
 Current Developers on this project: Fahad Adnan and Zayd Adnan
