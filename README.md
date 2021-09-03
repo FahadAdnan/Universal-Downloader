@@ -14,7 +14,7 @@ There are 3 main features of the application:
 ## Tech Stack
 - Language: Kotlin
 - Architecture: MVVM
- -Navigation: Android Jetpack
+- Navigation: Android Jetpack
 - Local Database: Android Room + Shared Preferences
 
 Project is currently a work in progress contact: fahadadnan123@gmail.com or zaydadnan08@gmail.com for suggestions or possible development help. 
