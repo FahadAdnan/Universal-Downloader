@@ -1,7 +1,7 @@
 #  <img height=40 src="https://user-images.githubusercontent.com/45888399/132067105-dbacdb39-f08f-4265-bbd2-451e724f7e0a.png"> Universal-Downloader
 A current minimum-viable-product of an application made to Download, Play, and Alter Music. 
 The inspiration for this project was to find an alternative to subscription based services like Spotify.
-Current Developers on this project: Fahad Adnan and Zayd Adnan
+ Current Developers on this project: Fahad Adnan and Zayd Adnan
 
 There are 3 main features of the application: 
 ### ⬇️ Downloader 
